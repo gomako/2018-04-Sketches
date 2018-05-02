@@ -1,7 +1,7 @@
 # 2018-04-Sketches
 A month of sketches made in Processing
 
-![Month of Processing](gomako.github.com/2018-04-Sketches/screenshot.png "Month of Processing")
+![Month of Processing](https://gomako.github.com/2018-04-Sketches/screenshot.png "Month of Processing")
 
 A lot of the information on how to make these things came from Dan Shiffman and his [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) and [Nature of Code](http://natureofcode.com/) work. 
 
